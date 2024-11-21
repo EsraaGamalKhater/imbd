@@ -3,7 +3,7 @@ import "./globals.css";
 import Header from "@/component/header";
 import Navbar from "@/component/navbar";
 import Search from "@/component/Search";
-import Providers from "./Providers";
+import Providers from "@/component/Providers";
 const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "IMDB clone",
